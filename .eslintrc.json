@@ -28,9 +28,9 @@
     "quotes": ["error", "single"],
     "semi": ["error", "never"],
     "no-constant-condition": "warn",
-    "no-extra-semi": "error",
     "no-debugger": "warn",
     "no-console": "warn",
+    "@typescript-eslint/no-extra-semi": "off",
     "unused-imports/no-unused-imports": "warn",
     "react-hooks/rules-of-hooks": "error",
     "import-helpers/order-imports": [
